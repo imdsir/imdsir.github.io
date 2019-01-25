@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>D 先生博客</title>
+  <title>圈里的程序猿</title>
   
-  <subtitle>一个绩效 D 的中年男人内心独白</subtitle>
+  <subtitle>混迹于互联网圈的程序猿</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.prozin.xyz/"/>
@@ -10,7 +10,7 @@
   <id>http://blog.prozin.xyz/</id>
   
   <author>
-    <name>D 先生</name>
+    <name>D-Sir</name>
     
   </author>
   
